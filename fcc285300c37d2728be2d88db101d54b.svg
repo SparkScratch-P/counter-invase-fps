@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="477.3144300712397" height="362.7194288505366" viewBox="-2.0995638734723205 -2.776463917555916 477.3144300712397 362.7194288505366">
+  <defs>
+    <linearGradient id="grad_1" x1="27.1699" y1="75.8438" x2="118.1699" y2="75.8438" gradientUnits="userSpaceOnUse">
+      <stop offset="0.012" stop-color="#A7A9AC"/>
+      <stop offset="1" stop-color="#414042"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x1="30.583" y1="75.8447" x2="114.7559" y2="75.8447" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D1D2D3"/>
+      <stop offset="1" stop-color="#A4A5A8"/>
+    </linearGradient>
+  <linearGradient id="grad_1-.180408000946045,0,0,6.5266923904418945,-139.9,-266.25" x1="0.8512" y1="228.7592" x2="472.2683" y2="228.7592" gradientUnits="userSpaceOnUse">
+      <stop offset="0.012" stop-color="#A7A9AC"/>
+      <stop offset="1" stop-color="#414042"/>
+    </linearGradient><linearGradient id="grad_2-.180408000946045,0,0,6.5266923904418945,-139.9,-266.25" x1="18.5324" y1="228.765" x2="454.5824" y2="228.765" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D1D2D3"/>
+      <stop offset="1" stop-color="#A4A5A8"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.011184659786522388">
+    <path id="ID0.4958239388652146" fill="url(#grad_1-.180408000946045,0,0,6.5266923904418945,-139.9,-266.25)" d="M 472.2688 300.8347 C 472.2688 331.8496 452.3035 356.9969 427.6914 356.9969 L 45.4187 356.9969 C 20.8014 356.9969 0.8465 331.843 0.8465 300.8347 L 0.8465 56.3252 C 0.8465 25.3104 20.8014 0.1696 45.4187 0.1696 L 427.6862 0.1696 C 452.3139 0.1696 472.2636 25.3104 472.2636 56.3252 L 472.2636 300.8347 L 472.2688 300.8347 Z " stroke-width="5.892127825145935"/>
+    <path id="ID0.9057768937200308" fill="url(#grad_2-.180408000946045,0,0,6.5266923904418945,-139.9,-266.25)" d="M 427.6862 22.4452 L 45.4187 22.4452 C 30.5976 22.4452 18.5324 37.6393 18.5324 56.3187 L 18.5324 300.8282 C 18.5324 319.5076 30.5976 334.7017 45.4187 334.7017 L 427.6862 334.7017 C 442.5229 334.7017 454.5777 319.5076 454.5777 300.8282 L 454.5777 56.3252 C 454.5777 37.6459 442.5229 22.4452 427.6862 22.4452 Z " stroke-width="5.892127825145935"/>
+  </g>
+  <text id="ID0.9132088287733495" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 66 40.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Target with ur mouse and shoot</tspan><tspan x="0" style="white-space: pre" dy="1.13em">by pressing &lt;SPACE&gt;</tspan></text>
+  <text id="ID0.34175445791333914" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 77 114.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Shoot as many as u can before </tspan><tspan x="0" style="white-space: pre" dy="1.13em">u are exhausted enough</tspan></text>
+  <text id="ID0.7791593526490033" fill="#0033CC" text-anchor="start" font-family="Handwriting" font-size="22" transform="matrix(2.07409 0 0 1.87651 81.1482 154.558)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="2em">COME ON !!!</tspan><tspan x="0" style="white-space: pre" dy="2em"> Shoot 'Em Up</tspan></text>
+  <text id="ID0.18098714342340827" fill="#000000" text-anchor="start" font-family="Serif" font-size="22" transform="matrix(0.586645 0 0 0.586645 352.173 316.753)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.25em">Click to Esc</tspan></text>
+</svg>
